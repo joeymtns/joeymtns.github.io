@@ -1,12 +1,6 @@
----
+# Arc – Habit Tracker
 
-### Legal
-
-[Privacy Policy](https://joeymtns.github.io/privacy.html)  
-[Terms & Conditions](https://joeymtns.github.io/privacy.html)
-
-
-
+Official website: https://joeymtns.github.io
 
 ---
 # joeymtns.github.io
